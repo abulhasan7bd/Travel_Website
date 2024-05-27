@@ -15,7 +15,7 @@ Discover and explore the world with our travel website created using HTML, CSS, 
 
 ## Screenshots
 
-![App Screenshot](http://127.0.0.1:5500/Screenshot_4.png)
+<p align="center" height:'200px'> <a href="https://ibb.co/qgrpDfp"><img src="https://i.ibb.co/Sm3B68B/Front-End-Developer-2.png" alt="Front-End-Developer-2" border="0" width='100%'  object-fit='cover'></a> </p>
 
 
 ## Developer-Comment:
