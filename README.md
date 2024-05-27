@@ -12,7 +12,11 @@ Discover and explore the world with our travel website created using HTML, CSS, 
 - Live previews
 - Fullscreen mode
 - Fully responsive
+
 ## Screenshots
+
 ![App Screenshot](http://127.0.0.1:5500/Screenshot_4.png)
+
+
 ## Developer-Comment:
 This website is very awesome and fully color matched with every element. User authentication is very secure. Easy to navigate. This website is mobiles and desktop responsive.
